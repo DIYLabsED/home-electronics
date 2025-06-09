@@ -1,6 +1,6 @@
-## <NAME>
-### <DESC>
+## NAME
+### DESC
 
-### <REQUIREMENTS>
+### REQUIREMENTS
 
-### <DESIGN NOTES>
+### DESIGN NOTES

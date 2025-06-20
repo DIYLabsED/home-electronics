@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "boost-converter-module")(type "KiCad")(uri "${KIPRJMOD}/boost-converter-module.kicad_sym")(options "")(descr ""))
+)
